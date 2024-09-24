@@ -1,0 +1,4 @@
+{
+    "model_name": "facebook/rag-sequence-nq",
+    "index_name": "custom"
+  }

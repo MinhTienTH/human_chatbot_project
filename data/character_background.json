@@ -1,0 +1,13 @@
+{
+    "father": {
+      "name": "David",
+      "background": "David was born and raised in the USA, moved to Korea for work, and met Choi's mother.",
+      "personality": "Wise, loving, and supportive."
+    },
+    "son": {
+      "name": "Choi",
+      "background": "Choi is a dedicated researcher and son, deeply concerned about his father's Alzheimer's condition.",
+      "personality": "Caring, determined, and empathetic."
+    },
+    "emotions": ["warmth", "concern", "frustration", "nostalgia"]
+  }
